@@ -1,0 +1,167 @@
+[
+  {
+    "idMeal": "52772",
+    "strMeal": "Teriyaki Chicken Casserole",
+    "strCategory": "Chicken",
+    "strArea": "Japanese",
+    "strInstructions": "Preheat oven to 350° F. Cook chicken with soy sauce, garlic, and vegetables. Mix with cooked rice, top with cheese, and bake for 25 minutes.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=4aZr5hZXP_s",
+    "strIngredient1": "soy sauce",
+    "strMeasure1": "3/4 cup"
+  },
+  {
+    "idMeal": "52874",
+    "strMeal": "Beef and Mustard Pie",
+    "strCategory": "Beef",
+    "strArea": "British",
+    "strInstructions": "Preheat oven to 200C. Cook beef with onions, carrots, and mustard. Place in pie crust, cover, and bake for 40 minutes.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=5k8HjS5Fl8s",
+    "strIngredient1": "Beef",
+    "strMeasure1": "1 kg"
+  },
+  {
+    "idMeal": "52977",
+    "strMeal": "Corba",
+    "strCategory": "Soup",
+    "strArea": "Turkish",
+    "strInstructions": "Cook lentils, onion, carrot, and tomato in water. Blend until smooth and season with spices.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=VVnZd8A84z4",
+    "strIngredient1": "Lentils",
+    "strMeasure1": "1 cup"
+  },
+  {
+    "idMeal": "52978",
+    "strMeal": "Kumpir",
+    "strCategory": "Vegetarian",
+    "strArea": "Turkish",
+    "strInstructions": "Bake potatoes until soft. Mash with butter and cheese. Top with vegetables and sauces.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=Ymgn6F1nlF8",
+    "strIngredient1": "Potatoes",
+    "strMeasure1": "4 large"
+  },
+  {
+    "idMeal": "52979",
+    "strMeal": "Tamiya",
+    "strCategory": "Vegetarian",
+    "strArea": "Egyptian",
+    "strInstructions": "Mash fava beans, onions, and herbs. Form into patties and deep fry until golden.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=KJ5x5w9hfZk",
+    "strIngredient1": "Fava beans",
+    "strMeasure1": "2 cups"
+  },
+  {
+    "idMeal": "52980",
+    "strMeal": "Dal fry",
+    "strCategory": "Vegetarian",
+    "strArea": "Indian",
+    "strInstructions": "Cook lentils with onions, garlic, tomatoes, and spices until thick. Garnish with cilantro.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=b8FR6v4WbXg",
+    "strIngredient1": "Lentils",
+    "strMeasure1": "1 cup"
+  },
+  {
+    "idMeal": "52981",
+    "strMeal": "Chicken Handi",
+    "strCategory": "Chicken",
+    "strArea": "Indian",
+    "strInstructions": "Cook chicken with onions, tomatoes, yogurt, and spices in a handi or pan until tender.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=hn2gP6trGFA",
+    "strIngredient1": "Chicken",
+    "strMeasure1": "500g"
+  },
+  {
+    "idMeal": "52982",
+    "strMeal": "Beef Wellington",
+    "strCategory": "Beef",
+    "strArea": "British",
+    "strInstructions": "Sear beef fillet. Wrap with mushroom duxelles and puff pastry. Bake until golden brown.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "strIngredient1": "Beef fillet",
+    "strMeasure1": "1 kg"
+  },
+  {
+    "idMeal": "52983",
+    "strMeal": "Pad Thai",
+    "strCategory": "Noodles",
+    "strArea": "Thai",
+    "strInstructions": "Soak rice noodles. Stir-fry with shrimp, tofu, eggs, peanuts, and sauce.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=1-is-6kz4Go",
+    "strIngredient1": "Rice noodles",
+    "strMeasure1": "200g"
+  },
+  {
+    "idMeal": "52984",
+    "strMeal": "Poutine",
+    "strCategory": "Miscellaneous",
+    "strArea": "Canadian",
+    "strInstructions": "Fry potato fries. Top with cheese curds and brown gravy. Serve hot.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=JzY3J6PXpT0",
+    "strIngredient1": "Potatoes",
+    "strMeasure1": "4 large"
+  },
+  {
+    "idMeal": "52985",
+    "strMeal": "Lasagna",
+    "strCategory": "Pasta",
+    "strArea": "Italian",
+    "strInstructions": "Layer pasta sheets with meat sauce, ricotta, and mozzarella. Bake until bubbling.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=UePtoxDhj5E",
+    "strIngredient1": "Lasagna noodles",
+    "strMeasure1": "12 sheets"
+  },
+  {
+    "idMeal": "52986",
+    "strMeal": "Sushi",
+    "strCategory": "Seafood",
+    "strArea": "Japanese",
+    "strInstructions": "Prepare sushi rice. Roll with nori, fish, and vegetables. Slice and serve with soy sauce.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=I1UDS2kgqY8",
+    "strIngredient1": "Sushi rice",
+    "strMeasure1": "2 cups"
+  },
+  {
+    "idMeal": "52987",
+    "strMeal": "Fish Pie",
+    "strCategory": "Seafood",
+    "strArea": "British",
+    "strInstructions": "Cook fish in milk with butter. Place in pie dish, top with mashed potatoes, and bake until golden.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=YZb7iU2EY6Q",
+    "strIngredient1": "White fish",
+    "strMeasure1": "500g"
+  },
+  {
+    "idMeal": "52988",
+    "strMeal": "Falafel",
+    "strCategory": "Vegetarian",
+    "strArea": "Middle Eastern",
+    "strInstructions": "Blend chickpeas with onion, garlic, and herbs. Form patties and deep fry until golden.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/1c5sav1515291163.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "strIngredient1": "Chickpeas",
+    "strMeasure1": "2 cups"
+  },
+  {
+    "idMeal": "52989",
+    "strMeal": "Shakshuka",
+    "strCategory": "Vegetarian",
+    "strArea": "Middle Eastern",
+    "strInstructions": "Cook onions and peppers. Add tomatoes and spices. Crack eggs on top and simmer until eggs are set.",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/g373701551450464.jpg",
+    "strYoutube": "https://www.youtube.com/watch?v=5a4zG8g8a5Y",
+    "strIngredient1": "Eggs",
+    "strMeasure1": "4"
+  }
+]
